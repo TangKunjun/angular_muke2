@@ -358,7 +358,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571476508897" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571541127575" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -430,12 +430,12 @@
       <updated>1570546285811</updated>
       <workItem from="1570546287141" duration="10291000" />
       <workItem from="1571150965168" duration="926000" />
-      <workItem from="1571470504088" duration="5511000" />
+      <workItem from="1571470504088" duration="5818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16728000" />
+    <option name="totallyTimeSpent" value="17035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -448,9 +448,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -467,7 +466,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.31084338" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
